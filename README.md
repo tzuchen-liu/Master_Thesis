@@ -82,3 +82,7 @@ These scripts can be run by:
 python {path to file} + {filename}
 ```
 E.g. ``python app/train.py``
+
+## Dataset
+
+To avoid any potential legal issues, the data used are not included in this repository.
