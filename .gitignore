@@ -1,0 +1,7 @@
+venv_liu_ma/
+.idea/
+*__pycache__*
+*app/Log/*
+app/Dataset/Dataset_Split_Velocity/*
+each_window_test.csv
+mean_seq_test.csv
